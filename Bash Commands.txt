@@ -1,0 +1,112 @@
+    1  ping google.com
+    2  cd
+    3  bash
+    4  ls
+    5  pwd
+    6  cd Desktop/
+    7  mkdir test
+    8  ls test
+    9  ls zombie
+   10  cd test/
+   11  pwd
+   12  curl
+   13  curl
+   14  curl --help
+   15  curl -O https://swcarpentry.github.io/shell-novice/data/shell-lesson-data.zip
+   16  ls
+   17  curl --help
+   18  curl -o ~/Desktop/test
+   19   https://swcarpentry.github.io/shell-novice/data/shell-lesson-data.zip -o here.zip
+   20  curl -O https://swcarpentry.github.io/shell-novice/data/shell-lesson-data.zip -o here.zip
+   21  curl -o ~/Desktop/test/here.zip https://swcarpentry.github.io/shell-novice/data/shell-lesson-data.zip
+   22  cd ..
+   23  ls -l
+   24  ls -l -h
+   25  ls -h -l
+   26  ls - lh
+   27  ls -l -h
+   28  pwd
+   29  cd Desktop/
+   30  cd test
+   31  cd
+   32  cd -
+   33  cd ..
+   34  cd ..
+   35  cd Desktop/test/
+   36  cd ../..
+   37  cd -
+   38  cd /c/users/d3/
+   39  cd
+   40  cd ~
+   41  cd Desktop/test/
+   42  history
+   43  echo hi
+   44  cd
+   45  cd .
+   46  cd /d
+   47  cd /e
+   48  cd
+   49  ls *.zip
+   50  mv shell-lesson-data.zip ~/desktop/
+   51
+   52  ls shell*
+   53  unzipshell
+   54  history
+   55  mkdir 23366015
+   56  cd 23366015
+   57  history
+   58  cd desktop
+   59  cd Desktop
+   60  cd test
+   61  cd ..
+   62  cd -
+   63  cd ~
+   64  curl --help
+   65  cd D
+   66  pwd
+   67  cd D
+   68  cd Desktop/
+   69  ls
+   70  cd Desktop
+   71  mkdir test
+   72  ls zombie
+   73  curl
+   74  curl --help
+   75  curl -O https://swcarpentry.github.io/shell-novice/data/shell-lesson-data.zip -o here.zip
+   76  curl -o here.zip
+   77  curl -o ~/Desktop/test/here.zip https://swcarpentry.github.io/shell-novice/data/shell-lesson-data.zip
+   78  ls -l
+   79  ls -l -h
+   80  ls shell*
+   81  ls *.zip
+   82  mv shell-lesson-data.zip ~/desktop/
+   83  history
+   84  cd
+   85  mkdir 23366015
+   86  cd 23366015
+   87  cd Doc
+   88  cd De
+   89  cd De
+   90  exit
+   91  ping google.com
+   92  bash
+   93  clear
+   94  pwd
+   95  ls
+   96  ls -a
+   97  .bash history
+   98  bash
+   99  rm -r 23366015
+  100  cd
+  101  cd desktop
+  102  rm -r 23366015
+  103  pwd
+  104  mkdir 23366015
+  105  ls
+  106  rm -r 23366015
+  107  cd desktop.ini
+  108  cd desktop.ini
+  109  echo Hi bracu
+  110  ping google.com
+  111  bash
+  112  history
